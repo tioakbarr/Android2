@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Local Pride Shop 2"
